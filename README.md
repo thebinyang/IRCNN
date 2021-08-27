@@ -15,7 +15,7 @@ The materials in this repository are only for study and research, **NOT FOR COMM
   ```
 
 ### Data preparation  
-The dimensions of the input data :  (T, B, C, H, W)  
+The shape of the input data :  (T, B, C, H, W)  
 　T is the length of Time  
 　B is the Batch size  
 　C is the Channels  
