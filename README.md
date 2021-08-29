@@ -22,7 +22,7 @@ The shape of the input data :  (T, B, C, H, W)
 　H is the High of the image patch  
 　W is the Width of the image patch  
  
-### Training
+### Train
 python train.py  
 Note there is a config file named Parameter.yaml  
 
