@@ -1,0 +1,35 @@
+#root file
+
+Seed: 1
+
+
+data_path: 'F:\Landsat Download\Scenes6 CN\DL'
+
+save_path: 'F:\deep leaning\tumor-cifar-master - mytest\tumor-cifar-test\models'
+
+begin_time: 0
+time: 10
+# training Params
+max_epoch: 15
+start_epoch: 0
+n_classes: 2
+learning_rate: 0.001
+learning_rate_abcd: 0.01
+batch_size: 500
+image_time: [5.9616, 5.7863, 3.9890, 3.0247, 2.6740, 2.6301, 1.9726, 1.2712, 0.9644, 0]
+
+steps: [10,15,20,25]
+lr_gamma: 0.5
+
+mode: LSTM   #  LSTM / DisLSTM / DisLSTM2 / DisLSTM3 / DisLSTM4
+
+# loss Params
+loss_name: cross_entropy_loss
+# valid_size: 0.1
+adjust_lr: True
+use_exist_model: False
+save_tensorlog: True
+iseval: True
+add_positive: False
+savemodel: True
+
