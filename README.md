@@ -33,6 +33,6 @@ python test.py
 Remote sensing images (Landast7/8) and ground truth map of five study areas:  
 Access from Baidu Cloud
 Link: https://pan.baidu.com/s/1foKoq_dR0WbkB9rC6FCwwQ  
-Password: ih9t
-Access from Google Drive
+Password: ih9t  
+Access from Google Drive  
 Link: https://drive.google.com/file/d/1tek-QOl1IWoebtJbyUyA0zKbo1x0V9wD/view?usp=sharing
