@@ -38,4 +38,4 @@ Access from Baidu Cloud
 Link: https://pan.baidu.com/s/1UhE0N2GcybyjZdIYb8TlGQ  
 Password: wdzm  
 Access from Google Drive  
-Link: https://drive.google.com/file/d/1tek-QOl1IWoebtJbyUyA0zKbo1x0V9wD/view?usp=sharing
+Link: https://drive.google.com/drive/folders/1DeJqrVz5luVcwCs-zknvQBY85Ks4X0WP?usp=sharing  
