@@ -1,6 +1,8 @@
 # IRCNN
 
-This repository includes codes and dataset for "IRCNN：An Irregular-Time-Distanced Recurrent Convolutional Neural Network for Change Detection in Satellite Time Series", which has been submitted to IEEE Geoscience and Remote Sensing Letters.
+This repository includes codes and dataset for "IRCNN：An Irregular-Time-Distanced Recurrent Convolutional Neural Network for Change Detection in Satellite Time Series", which has been published in IEEE Geoscience and Remote Sensing Letters. (DOI: 10.1109/LGRS.2022.3154894)   
+
+Paper Link: https://ieeexplore.ieee.org/document/9721897  
 
 The materials in this repository are only for study and research, **NOT FOR COMMERCIAL USE**.  
 ***
@@ -32,7 +34,7 @@ python test.py
 ### Data Download  
 Remote sensing images (Landast7/8) and ground truth map of five study areas:  
 Access from Baidu Cloud  
-Link: https://pan.baidu.com/s/1foKoq_dR0WbkB9rC6FCwwQ  
-Password: ih9t  
+Link: https://pan.baidu.com/s/1UhE0N2GcybyjZdIYb8TlGQ  
+Password: wdzm  
 Access from Google Drive  
 Link: https://drive.google.com/file/d/1tek-QOl1IWoebtJbyUyA0zKbo1x0V9wD/view?usp=sharing
